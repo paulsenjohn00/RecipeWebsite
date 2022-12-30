@@ -31,7 +31,7 @@ SECRET_KEY = os.getenv("SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS = ['https://johnnypaulsen.com']
+CSRF_TRUSTED_ORIGINS = ['https://johnnypaulsen.up.railway.app']
 
 # Application definition
 
