@@ -74,7 +74,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'recipewebsite.wsgi.application'
+# WSGI_APPLICATION = 'recipewebsite.wsgi.application'
 
 
 # Database
